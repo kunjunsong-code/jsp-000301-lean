@@ -1,0 +1,10 @@
+name = "jsp-000301-lean"
+version = "0.1.0"
+defaultTargets = ["jsp-000301-lean"]
+
+[[lean_lib]]
+name = "Jsp000301Lean"
+
+[[lean_exe]]
+name = "jsp-000301-lean"
+root = "Main"

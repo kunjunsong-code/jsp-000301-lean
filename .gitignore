@@ -1,0 +1,8 @@
+﻿/.lake/
+*.olean
+*.ilean
+*.c
+*.o
+*.obj
+*.exe
+build/
