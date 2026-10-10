@@ -1,4 +1,4 @@
-/-!
+-!
 # JSP-000301 — formalization (Lean 4.20.0, no Mathlib)
 
 Problem (problem bank, catalog-0301-0400.md):
